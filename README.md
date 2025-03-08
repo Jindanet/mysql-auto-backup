@@ -26,7 +26,7 @@ DB_USER = "your_username"
 DB_PASSWORD = "your_password"
 DB_NAME = "your_database"
 BACKUP_BASE_DIR = "C:\\path\\to\\backup\\directory"
-
+```
 ### 4️⃣ Run the Script
 Run the script manually or set it to start automatically:
 
